@@ -29,7 +29,7 @@
 `npm install`
 
 ### run the server
-`npm run serve`
+`npm run dev`
 
 ### command for docker
 #### for windows
