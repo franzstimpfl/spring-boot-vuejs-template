@@ -21,6 +21,7 @@
 
 ### command to start and run
 `docker start maven`
+
 `docker exec -it maven bash`
 
 ## Client
@@ -40,4 +41,5 @@
 
 ### command to start and run
 `docker start node`
+
 `docker exec -it node bash`
